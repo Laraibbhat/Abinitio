@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Abinitio</string>
+
+    <string-array name="Title">
+        <item>Timetable</item>
+        <item>Departments</item>
+        <item>Coordinators</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Description one</item>
+        <item>Description two</item>
+        <item>Description three</item>
+        <item>Description four</item>
+    </string-array>
+
+</resources>
